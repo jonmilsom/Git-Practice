@@ -7,4 +7,8 @@ echo 'Hello Worlds';
 
 $array = array('zero', 'one', 'two');
 
+echo '<pre>'.print_r($array, true).'</pre>';
+
+
+
 ?>
